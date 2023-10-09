@@ -1,0 +1,7 @@
+alio version 1.0.1
+1: fixed smalls bugs
+2:changed the file-write system,you dont have to specify the numbre of lines before writing,just press a key that is'nt 'q'
+to continue
+3:added a 'bip boop' function
+
+i hope you'll enjoy this new update!
